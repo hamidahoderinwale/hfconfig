@@ -2,6 +2,13 @@
 
 A comprehensive analysis suite for exploring architectural configurations of AI models from the Hugging Face ecosystem, extracted from `config.json` files.
 
+## Dataset
+
+The underlying dataset is available on Hugging Face:
+
+- [modelbiome/ai_ecosystem](https://huggingface.co/datasets/modelbiome/ai_ecosystem)
+- [modelbiome/ai_ecosystem_withmodelcards](https://huggingface.co/datasets/modelbiome/ai_ecosystem_withmodelcards)
+
 ## Overview
 
 This repository contains systematic analyses of model architectures, focusing on:
