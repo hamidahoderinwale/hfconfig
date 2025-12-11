@@ -246,15 +246,6 @@ Each notebook generates:
 7. **Which architectural features predict capability?**
 8. **Do architecture clusters align with behavioral clusters?**
 
-## Citation
-
-If you use this analysis suite, please cite:
-
-```
-Config.json Analysis Suite for AI Ecosystem Models
-Based on the AI Ecosystem dataset and architectural configurations
-```
-
 ## Related Work
 
 This analysis extends the [AI Ecosystem](https://github.com/modelbiome/ai-ecosystem) project by:
@@ -263,10 +254,3 @@ This analysis extends the [AI Ecosystem](https://github.com/modelbiome/ai-ecosys
 - Analyzing architectural drift and mutation patterns
 - Integrating behavioral/capability data (LMArena)
 
-## License
-
-[Specify license - typically same as parent AI Ecosystem project]
-
-## Contact
-
-[Add contact information or issues link]
